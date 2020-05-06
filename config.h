@@ -2,12 +2,12 @@
 
 /* appearance */
 static const char font[]        = "Hack:size=11";
-static const char* normbgcolor  = "#373b41";
-static const char* normfgcolor  = "#c5c8c6";
-static const char* selbgcolor   = "#1d1f21";
-static const char* selfgcolor   = "#c5c8c6";
-static const char* urgbgcolor   = "#373b41";
-static const char* urgfgcolor   = "#c5c8c6";
+static const char* normbgcolor  = "#262626";
+static const char* normfgcolor  = "#d0d0d0";
+static const char* selbgcolor   = "#121212";
+static const char* selfgcolor   = "#d0d0d0";
+static const char* urgbgcolor   = "#262626";
+static const char* urgfgcolor   = "#d0d0d0";
 static const char before[]      = "<";
 static const char after[]       = ">";
 static const char titletrim[]   = "...";
